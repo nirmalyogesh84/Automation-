@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T20:51:18 IST" name="Default suite" finished-at="2022-06-08T20:52:26 IST" duration-ms="67611">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T20:51:18 IST" name="Default test" finished-at="2022-06-08T20:52:26 IST" duration-ms="67611">
+      <class name="net.calculator.testcalculator.TestClass">
+        <test-method is-config="true" signature="Lauchbroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:18 IST" name="Lauchbroweser" finished-at="2022-06-08T20:51:26 IST" duration-ms="7037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lauchbroweser -->
+        <test-method signature="testMultiply()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:26 IST" name="testMultiply" finished-at="2022-06-08T20:51:36 IST" duration-ms="10421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiply -->
+        <test-method is-config="true" signature="colseBroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:36 IST" name="colseBroweser" finished-at="2022-06-08T20:51:36 IST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colseBroweser -->
+        <test-method is-config="true" signature="Lauchbroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:36 IST" name="Lauchbroweser" finished-at="2022-06-08T20:51:41 IST" duration-ms="4941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lauchbroweser -->
+        <test-method signature="testdivision()[pri:1, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:41 IST" name="testdivision" finished-at="2022-06-08T20:51:52 IST" duration-ms="10428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdivision -->
+        <test-method is-config="true" signature="colseBroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:52 IST" name="colseBroweser" finished-at="2022-06-08T20:51:52 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colseBroweser -->
+        <test-method is-config="true" signature="Lauchbroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:52 IST" name="Lauchbroweser" finished-at="2022-06-08T20:51:58 IST" duration-ms="5648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lauchbroweser -->
+        <test-method signature="testAddition()[pri:2, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:51:58 IST" name="testAddition" finished-at="2022-06-08T20:52:08 IST" duration-ms="10712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method is-config="true" signature="colseBroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:52:08 IST" name="colseBroweser" finished-at="2022-06-08T20:52:09 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colseBroweser -->
+        <test-method is-config="true" signature="Lauchbroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:52:09 IST" name="Lauchbroweser" finished-at="2022-06-08T20:52:14 IST" duration-ms="5377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lauchbroweser -->
+        <test-method signature="testSubtraction()[pri:3, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:52:14 IST" name="testSubtraction" finished-at="2022-06-08T20:52:25 IST" duration-ms="10866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+        <test-method is-config="true" signature="colseBroweser()[pri:0, instance:net.calculator.testcalculator.TestClass@5f8e8a9d]" started-at="2022-06-08T20:52:25 IST" name="colseBroweser" finished-at="2022-06-08T20:52:26 IST" duration-ms="1244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colseBroweser -->
+      </class> <!-- net.calculator.testcalculator.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
